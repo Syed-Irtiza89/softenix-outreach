@@ -1,0 +1,1 @@
+"""Softenix Solution FastAPI backend."""
