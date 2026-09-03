@@ -1,0 +1,11 @@
+.venv
+venv
+__pycache__
+*.pyc
+*.db
+.env
+.cursor
+agent-transcripts
+api
+frontend/node_modules
+frontend/dist
